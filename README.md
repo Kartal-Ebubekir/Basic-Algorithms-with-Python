@@ -41,52 +41,6 @@ Her algoritmanın çalışma mantığı, Python kodu ve görselleştirmeleri ile
 2. `Basic_Algorithm_with_Python.ipynb` dosyasını bir Jupyter ortamında (Jupyter Notebook, VS Code veya Google Colab) açın.
 3. Kod hücrelerini sırasıyla çalıştırarak algoritmaların işleyişini inceleyin.
 
----
-
-# Data Structures and Algorithms with Python (DSA)
-
-This project is a comprehensive guide covering the fundamentals of Software Engineering and Computer Science: *Data Structures & Algorithms*, using the Python programming language.
-
-The project includes both theoretical time complexity analyses (Big O Notation) and step-by-step code implementations of popular searching and sorting algorithms. Animations and schemas are used within the project to better understand the logic of the algorithms. Code blocks contain detailed comments explaining what each line does.
-
-## Content
-
-This notebook covers the following main topics:
-
-### 1. Algorithm Analysis and Big O Notation
-* **Time Complexity (T(n)):** Performance analysis of algorithms.
-* **Asymptotic Notations:** Big O (O), Big Omega (Ω), and Big Theta (ϴ).
-* **Space Complexity (S(n)):** Memory management analysis.
-
-### 2. Searching Algorithms
-* **Linear Search:** O(n) complexity.
-* **Binary Search:** O(log n) complexity (on sorted arrays).
-
-### 3. Sorting Algorithms
-The logic, Python code, and visualizations for each algorithm are explained:
-
-* **Bubble Sort**
-* **Selection Sort**
-* **Insertion Sort**
-* **Quick Sort:** Divide and Conquer logic.
-* **Merge Sort**
-* **Shell Sort:** Optimized version of insertion sort.
-* **Radix Sort:** Digit-based sorting.
-* **Heap Sort:** Sorting using the Heap data structure.
-
-## Technologies
-
-- *Language:* Python 3.x
-- *Environment:* Jupyter Notebook / Google Colab
-- *Concept:* Data Structures and Algorithms (DSA)
-
-## Usage
-
-1. Clone or download this repo.
-2. Open the `Basic_Algorithm_with_Python.ipynb` file in a Jupyter environment (Jupyter Notebook, VS Code, or Google Colab).
-3. Run the code cells sequentially to examine how the algorithms work.
-
-
 ## İletişim / Contact
 
 Ebubekir Kartal
